@@ -1,0 +1,14 @@
+ body{
+            background-color: black;
+            color: whitesmoke;
+        }
+        .botaoenviar{
+            background-color: greenyellow;
+            color: white;
+        }
+        .botaoapagar{
+
+            background-color: red;
+            color: white;
+
+        }
